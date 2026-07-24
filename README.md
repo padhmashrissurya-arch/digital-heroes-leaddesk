@@ -164,3 +164,11 @@ The database auto-seeds with the following default administrator account:
 As specified in the live build requirement, the application footer contains a visible credit line:
 
 > **Built for [Digital Heroes Training Task](https://digitalheroesco.com)**
+>
+> DEPLOED LINKS:
+> 1) Live Landing Page URL : https://digital-heroes-leaddesk-two.vercel.app/
+> 2) Admin URL : https://digital-heroes-leaddesk-two.vercel.app/admin
+> 3) Admin Credentials : Email: admin@leaddesk.com
+                         Password: AdminSecret123!
+  4) Public GitHub Repo : https://github.com/padhmashrissurya-arch/digital-heroes-leaddesk
+ 
